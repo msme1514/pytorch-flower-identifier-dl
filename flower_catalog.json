@@ -1,0 +1,626 @@
+{
+  "0": {
+    "name": "Pink Primrose",
+    "price": "$12.08",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "1": {
+    "name": "Hard-Leaved Pocket Orchid",
+    "price": "$14.92",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "2": {
+    "name": "Canterbury Bells",
+    "price": "$18.65",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "3": {
+    "name": "Sweet Pea",
+    "price": "$12.83",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "4": {
+    "name": "English Marigold",
+    "price": "$6.65",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "5": {
+    "name": "Tiger Lily",
+    "price": "$5.89",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "6": {
+    "name": "Moon Orchid",
+    "price": "$9.05",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "7": {
+    "name": "Bird Of Paradise",
+    "price": "$16.01",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "8": {
+    "name": "Monkshood",
+    "price": "$18.25",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "9": {
+    "name": "Globe Thistle",
+    "price": "$15.41",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "10": {
+    "name": "Snapdragon",
+    "price": "$12.73",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "11": {
+    "name": "Colt'S Foot",
+    "price": "$9.73",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "12": {
+    "name": "King Protea",
+    "price": "$16.56",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "13": {
+    "name": "Spear Thistle",
+    "price": "$15.20",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "14": {
+    "name": "Yellow Iris",
+    "price": "$16.59",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "15": {
+    "name": "Globe-Flower",
+    "price": "$10.01",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "16": {
+    "name": "Purple Coneflower",
+    "price": "$14.41",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "17": {
+    "name": "Peruvian Lily",
+    "price": "$14.47",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "18": {
+    "name": "Balloon Flower",
+    "price": "$16.91",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "19": {
+    "name": "Giant White Arum Lily",
+    "price": "$18.40",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "20": {
+    "name": "Fire Lily",
+    "price": "$7.87",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "21": {
+    "name": "Pincushion Flower",
+    "price": "$14.46",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "22": {
+    "name": "Fritillary",
+    "price": "$15.05",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "23": {
+    "name": "Red Ginger",
+    "price": "$11.59",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "24": {
+    "name": "Grape Hyacinth",
+    "price": "$11.42",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "25": {
+    "name": "Corn Poppy",
+    "price": "$10.61",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "26": {
+    "name": "Prince Of Wales Feathers",
+    "price": "$12.34",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "27": {
+    "name": "Stemless Gentian",
+    "price": "$6.72",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "28": {
+    "name": "Artichoke",
+    "price": "$9.21",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "29": {
+    "name": "Sweet William",
+    "price": "$17.08",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "30": {
+    "name": "Carnation",
+    "price": "$15.27",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "31": {
+    "name": "Garden Phlox",
+    "price": "$11.50",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "32": {
+    "name": "Love In The Mist",
+    "price": "$6.93",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "33": {
+    "name": "Mexican Aster",
+    "price": "$18.86",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "34": {
+    "name": "Alpine Sea Holly",
+    "price": "$19.16",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "35": {
+    "name": "Ruby-Lipped Cattleya",
+    "price": "$16.48",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "36": {
+    "name": "Cape Flower",
+    "price": "$15.37",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "37": {
+    "name": "Great Masterwort",
+    "price": "$18.16",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "38": {
+    "name": "Siam Tulip",
+    "price": "$6.59",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "39": {
+    "name": "Lenten Rose",
+    "price": "$15.93",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "40": {
+    "name": "Barbeton Daisy",
+    "price": "$19.47",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "41": {
+    "name": "Daffodil",
+    "price": "$7.38",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "42": {
+    "name": "Sword Lily",
+    "price": "$19.88",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "43": {
+    "name": "Poinsettia",
+    "price": "$12.10",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "44": {
+    "name": "Bolero Deep Blue",
+    "price": "$10.67",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "45": {
+    "name": "Wallflower",
+    "price": "$15.81",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "46": {
+    "name": "Marigold",
+    "price": "$12.54",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "47": {
+    "name": "Buttercup",
+    "price": "$5.33",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "48": {
+    "name": "Oxeye Daisy",
+    "price": "$15.34",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "49": {
+    "name": "Common Dandelion",
+    "price": "$18.81",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "50": {
+    "name": "Petunia",
+    "price": "$17.11",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "51": {
+    "name": "Wild Pansy",
+    "price": "$16.62",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "52": {
+    "name": "Primula",
+    "price": "$13.65",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "53": {
+    "name": "Sunflower",
+    "price": "$10.68",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "54": {
+    "name": "Pelargonium",
+    "price": "$5.50",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "55": {
+    "name": "Bishop Of Llandaff",
+    "price": "$15.63",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "56": {
+    "name": "Gaura",
+    "price": "$6.87",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "57": {
+    "name": "Geranium",
+    "price": "$6.26",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "58": {
+    "name": "Orange Dahlia",
+    "price": "$10.73",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "59": {
+    "name": "Pink-Yellow Dahlia",
+    "price": "$15.35",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "60": {
+    "name": "Cautleya Spicata",
+    "price": "$6.33",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "61": {
+    "name": "Japanese Anemone",
+    "price": "$18.19",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "62": {
+    "name": "Black-Eyed Susan",
+    "price": "$6.97",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "63": {
+    "name": "Silverbush",
+    "price": "$5.49",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "64": {
+    "name": "Californian Poppy",
+    "price": "$6.77",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "65": {
+    "name": "Osteospermum",
+    "price": "$13.63",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "66": {
+    "name": "Spring Crocus",
+    "price": "$10.94",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "67": {
+    "name": "Bearded Iris",
+    "price": "$16.96",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "68": {
+    "name": "Windflower",
+    "price": "$17.15",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "69": {
+    "name": "Tree Poppy",
+    "price": "$6.91",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "70": {
+    "name": "Gazania",
+    "price": "$16.63",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "71": {
+    "name": "Azalea",
+    "price": "$18.35",
+    "available": false,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "72": {
+    "name": "Water Lily",
+    "price": "$6.60",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "73": {
+    "name": "Rose",
+    "price": "$5.68",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "74": {
+    "name": "Thorn Apple",
+    "price": "$19.33",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "75": {
+    "name": "Morning Glory",
+    "price": "$13.97",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "76": {
+    "name": "Passion Flower",
+    "price": "$13.17",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "77": {
+    "name": "Lotus",
+    "price": "$10.34",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "78": {
+    "name": "Toad Lily",
+    "price": "$19.28",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "79": {
+    "name": "Anthurium",
+    "price": "$18.53",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "80": {
+    "name": "Frangipani",
+    "price": "$10.25",
+    "available": true,
+    "care": "Fertilize once a month during growing season."
+  },
+  "81": {
+    "name": "Clematis",
+    "price": "$17.97",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "82": {
+    "name": "Hibiscus",
+    "price": "$12.05",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "83": {
+    "name": "Columbine",
+    "price": "$11.04",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "84": {
+    "name": "Desert-Rose",
+    "price": "$15.07",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "85": {
+    "name": "Tree Mallow",
+    "price": "$15.23",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "86": {
+    "name": "Magnolia",
+    "price": "$7.83",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "87": {
+    "name": "Cyclamen",
+    "price": "$13.99",
+    "available": true,
+    "care": "Prefers indirect sunlight and moderate humidity."
+  },
+  "88": {
+    "name": "Watercress",
+    "price": "$10.28",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "89": {
+    "name": "Canna Lily",
+    "price": "$15.91",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "90": {
+    "name": "Hippeastrum",
+    "price": "$14.24",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "91": {
+    "name": "Bee Balm",
+    "price": "$19.15",
+    "available": true,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "92": {
+    "name": "Ball Moss",
+    "price": "$5.72",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "93": {
+    "name": "Foxglove",
+    "price": "$5.72",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "94": {
+    "name": "Bougainvillea",
+    "price": "$6.54",
+    "available": false,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  },
+  "95": {
+    "name": "Camellia",
+    "price": "$7.37",
+    "available": false,
+    "care": "Keep in partial shade and prune dead flowers."
+  },
+  "96": {
+    "name": "Mallow",
+    "price": "$13.12",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "97": {
+    "name": "Mexican Petunia",
+    "price": "$17.25",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "98": {
+    "name": "Bromelia",
+    "price": "$16.02",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "99": {
+    "name": "Blanket Flower",
+    "price": "$18.47",
+    "available": false,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "100": {
+    "name": "Trumpet Creeper",
+    "price": "$14.68",
+    "available": true,
+    "care": "Water regularly, but allow soil to dry slightly between waterings."
+  },
+  "101": {
+    "name": "Blackberry Lily",
+    "price": "$19.41",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "102": {
+    "name": "Common Tulip",
+    "price": "$10.01",
+    "available": false,
+    "care": "Fertilize once a month during growing season."
+  },
+  "103": {
+    "name": "Wild Rose",
+    "price": "$17.71",
+    "available": true,
+    "care": "Avoid overwatering. Well-drained soil is best."
+  }
+}
